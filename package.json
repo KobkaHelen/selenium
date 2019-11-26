@@ -1,0 +1,22 @@
+{
+  "name": "selenium",
+  "version": "0.0.1",
+  "description": "My code for Selenium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KobkaHelen/selenium.git"
+  },
+  "author": "Helen Kobka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KobkaHelen/selenium/issues"
+  },
+  "homepage": "https://github.com/KobkaHelen/selenium#readme",
+  "dependencies": {
+    "selenium-webdriver": "^3.6.0"
+  }
+}
