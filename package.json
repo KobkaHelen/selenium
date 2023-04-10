@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/KobkaHelen/selenium#readme",
   "dependencies": {
-    "selenium-webdriver": "^3.6.0"
+    "selenium-webdriver": "^4.8.2"
   }
 }
